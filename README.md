@@ -9,12 +9,15 @@ I build tools and platforms that simplify international trade document processin
 ## Projects
 
 - [Trade Document Services](https://facurl.com) — comprehensive foreign trade documentation platform
-- [Apostille & Authentication Guide](https://facurl.com/certificate-of-origin) — CO and apostille processing service
-- [Trade Compliance Tools](https://facurl.com/trade-documentation) — document templates and compliance checklists
+- [Certificate of Origin](https://facurl.com/en-co/) — China CO services, Form A, Form E, Form F, RCEP
+- [CCPIT Commercial Certification](https://facurl.com/en-ccpit/) — China Council trade document authentication
+- [Embassy Legalization](https://facurl.com/en-embassy/) — Document legalization for international use
+- [Apostille Services](https://facurl.com/en-apostille/) — Hague Convention apostille processing
+- [Trade Documentation Guide](https://facurl.com/en-guide/) — Complete guide to export and import documents
 
 ## Tech Stack
 
-Python, JavaScript, PHP, Linux, Docker, WordPress, MySQL
+Python, JavaScript, PHP, Linux, Docker, WordPress, MySQL, Nginx
 
 ## What I'm Working On
 
